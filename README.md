@@ -170,7 +170,7 @@ Educativo y de Aprendizaje Personal
 
 19. Agregamos la urls en linkdunp/urls.py
     ```bash
-   from django.contrib import admin
+    from django.contrib import admin
     from django.urls import path, include
 
     urlpatterns = [
