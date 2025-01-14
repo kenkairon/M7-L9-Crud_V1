@@ -69,7 +69,7 @@ Educativo y de Aprendizaje Personal
         def __str__(self):
             return self.url
 
-12. Creamos el .form en app
+12. Creamos el .forms en app
     ```bash
     from django import forms
     from .models import Link
